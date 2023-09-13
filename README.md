@@ -20,3 +20,8 @@ As part of an ongoing commitment to improving blended learning, the project envi
 
 With "Blended Learning Enhancement with Statistic Simplified," we aim to usher in a new era of effective and engaging statistics education, promoting student success and satisfaction in the dynamic landscape of modern learning.
 
+If you have problems with python, use the exe: 
+https://fh-dortmund.sciebo.de/s/UFZEzkbss9h9C2M (english version)
+https://fh-dortmund.sciebo.de/s/b1cXtiktD4Az89L (german version)
+
+
