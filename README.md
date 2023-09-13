@@ -23,6 +23,7 @@ With "Blended Learning Enhancement with Statistic Simplified," we aim to usher i
 If you have problems with python, use the exe: 
 
 https://fh-dortmund.sciebo.de/s/UFZEzkbss9h9C2M (english version)
+
 https://fh-dortmund.sciebo.de/s/b1cXtiktD4Az89L (german version)
 
 
